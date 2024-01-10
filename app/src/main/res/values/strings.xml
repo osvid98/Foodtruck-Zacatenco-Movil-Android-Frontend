@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">FoodTruck</string>
+    <string name="bienvenida">BIENVENIDO!</string>
+    <string name="crear_cuenta">Crea una cuenta</string>
+    <string name="nombre">Nombre(s)</string>
+    <string name="apellido_paterno">Apellido Paterno</string>
+    <string name="apellido_materno">Apellido Materno</string>
+    <string name="email">Correo electronico</string>
+    <string name="ocultar_password">Ocultar ocntrasena</string>
+    <string name="mostrar_password">Mostrar ocntrasena</string>
+    <string name="password">Contrasena</string>
+    <string name="registro_usuario">Soy cliente</string>
+    <string name="registro_empleado">Soy empleado</string>
+
+
+
+
+
+
+
+
 </resources>
