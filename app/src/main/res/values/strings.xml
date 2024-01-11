@@ -11,6 +11,10 @@
     <string name="password">Contrasena</string>
     <string name="registro_usuario">Soy cliente</string>
     <string name="registro_empleado">Soy empleado</string>
+    <string name="registro_boton">Registrar</string>
+    <string name="o_division">O</string>
+
+
 
 
 
